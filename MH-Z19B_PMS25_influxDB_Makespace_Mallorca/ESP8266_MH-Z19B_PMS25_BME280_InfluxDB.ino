@@ -5,6 +5,10 @@
 // SDA => D2
 // SCL => D1
 
+// Wiring PMS25 => ESP
+// RX => D6
+// TX => D5
+
 // Wiring MH-Z19B => ESP
 // RX => TX
 // TX => RX
